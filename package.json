@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "test directory of git and node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+      
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhav12333/vg-git.git"
+  },
+  "author": "Vaibhav Garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhav12333/vg-git/issues"
+  },
+  "homepage": "https://github.com/vaibhav12333/vg-git#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
